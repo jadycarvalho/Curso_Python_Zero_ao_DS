@@ -1,4 +1,4 @@
-# Curso_Python_Zero_ao_DS
+# Curso Python do Zero ao DS
 
 Curso ministrado pelo Cientista de Dados Meigarom Lopes em seu canal "Seja uma Data Scientist" no Youtube.
 
